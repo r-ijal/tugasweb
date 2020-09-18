@@ -121,7 +121,7 @@ table {
     justify-content: center;
     align-items: center; */
     width: 100%;
-    height: 500px;
+    height: 600px;
 }
 .banner80{
     /* background-color: red; */
@@ -144,9 +144,9 @@ table {
     margin: auto;
 }
 .banner-txt{
-    top: 200px;
+    top: 259px;
     left: 50%;
-    background-color: green;
+    /* background-color: green; */
     /* display: flex; */
     /* justify-content: center; */
     position: absolute;
@@ -174,7 +174,43 @@ table {
     width: 120px;
     height: 50px; 
 }
-
+.sale100{
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-between;
+    width: 100%;
+    height: 800px;
+    margin: auto;
+}
+.sale80{
+    display: flex;
+    background-color: lightpink;
+    justify-content: space-evenly;
+    width: 80%;
+    height: 800px;
+    margin: auto;
+}
+.sale1{
+    background-color: lightyellow;
+    display: flex;
+    width: 30%;
+    height: 800px;
+    margin: auto;
+}
+.sale2{
+    background-color: lightgreen;
+    display: flex;
+    width: 30%;
+    height: 800px;
+    margin: auto;
+}
+.sale3{
+    background-color: lightgray;
+    display: flex;
+    width: 30%;
+    height: 800px;
+    margin: auto;
+}
 #sign-in{
     position: absolute;
     display: flex;
